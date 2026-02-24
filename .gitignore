@@ -1,0 +1,37 @@
+# CMake build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/CTestTestfile.cmake
+/Makefile
+/install_manifest.txt
+/compile_commands.json
+
+# VS/Windows artifacts
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.obj
+*.idb
+*.ilk
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+*.tmp
+*.exe
+*.dll
+*.lib
+*.exp
+*.manifest
+
+# IDE settings
+/.vs/
+.vscode/
+
+# Ignore all markdown files except the main README
+*.md
+!README.md
