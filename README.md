@@ -147,3 +147,7 @@ CMakeLists.txt # build configuration and output target naming
 ## Disclaimer
 
 Use only in contexts where automation is allowed.
+
+## Important
+
+- [LICENSE](https://github.com/Muk7tm/Mk7Macro/blob/main/LICENSE)
